@@ -36,7 +36,7 @@ public class ventana1 extends javax.swing.JFrame {
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         jLabel1.setText("Esta ventana es para probar GitHub.com");
 
-        jButton1.setText("version 0.1");
+        jButton1.setText("version 0.2");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
